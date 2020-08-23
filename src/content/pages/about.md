@@ -5,8 +5,6 @@ title: Présentation
 attachments:
   - ./CVYessi.pdf
 ---
-
-
 ### Formation 📚
 
 **Ynov Nantes Campus** Bachelor Informatique | *Sept 2018 - Aujourd'hui*
@@ -68,3 +66,9 @@ Membre du Conseil des délégués pour la vie lycéenne Participation à la fina
 * Soft Skils
 
   Esprit d'équipe, créativité, motivation, autodiscipline
+
+
+
+### Loisirs  ⚽️
+
+En matière de loisirs, j'affectionne le sport avec notamment le football et le basketball que je pratique occasionnellement. Aussi, la musique occupe une grande place dans mon temps libre. En effet, je compose des musiques à l'aide d'un logiciel MAO (Musique assistée par ordinateur) .
