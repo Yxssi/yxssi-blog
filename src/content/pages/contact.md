@@ -1,8 +1,20 @@
 ---
 template: contact-page
 slug: /contact
-title: Get in touch
+title: Contactez-moi
 ---
-Got a burning question regarding **JAMstack**, Need a new **Website**, or just anything in general. We are happy to talk.
 
-Just send us a message using the form below or you can send us a DM on [Twitter](https://twitter.com/stackrole)
+Retrouvez-ci dessous l'ensemble de mes contacts.
+<br/>
+[yessimunguengui@icloud.com]('yessimunguengui@icloud.com')
+<br/>
+[Github](https://github.com/yxssi)
+<br/>
+[Twitter](https://twitter.com/yessimunguengui)
+<br/>
+
+---
+
+**_Formulaire de contact_**
+
+---
