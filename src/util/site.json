@@ -3,9 +3,9 @@
     "title": "YM",
     "titleTemplate": "%s",
     "description": "Site personnel de Yessi Munguengui",
-    "siteUrl": "https://foundation.stackrole.com",
+    "siteUrl": "https://yessimunguengui.tech/",
     "image": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "twitterUsername": "@yessimunguengui"
   },
-  "ga": "UA-XXXXXXXXX-X"
+  "ga": "UA-176081115-1"
 }
