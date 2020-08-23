@@ -23,7 +23,7 @@ Membre du Conseil des délégués pour la vie lycéenne Participation à la fina
 
   Missions principales : 
 
-  Maintien & amélioration de la plateforme de [OrigaMe](app.origame.fr)
+  Maintien & amélioration de la plateforme de [OrigaMe](https://origame.fr/)
 * **Projet pour l'École : Réalisation d'une application mobile**
 
   TedxNantes | Novembre 2019 - Juin 2020 (7 Mois)
