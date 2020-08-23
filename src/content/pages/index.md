@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Yessi Munguengui 💾
 tagline: Développeur Full-Stack Junior
-featuredImage:
+
 cta:
   ctaText: En savoir plus
   ctaLink: /about
