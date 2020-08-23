@@ -5,28 +5,66 @@ title: Présentation
 attachments:
   - ./CVYessi.pdf
 ---
-Thank you! Now say "nuclear wessels"! No! Don't jump! A sexy mistake. Anyone who laughs is a communist!
 
-A true inspiration for the children. And when we woke up, we had these bodies. Moving along… Do a flip! Michelle, I don't regret this, but I bth rue and lament it.
 
-### Parcours
+### Formation 📚
 
-Why do we use it?
-It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
+**Ynov Nantes Campus** Bachelor Informatique | *Sept 2018 - Aujourd'hui*
 
-Where does it come from?
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+**Université de Nantes** Licence Maths-Informatique-Physique Niveau L1 | *Sept 2017 - Juin 2018*
 
-### Expériences
+**Lycée Français Blaise Pascal de Libreville** Baccalauréat Scientifique Spécialité I.S.N. | *Sept 2014 - Juin 2017*
 
-1.
+Membre du Conseil des délégués pour la vie lycéenne Participation à la finale régionale du projet "Ambassadeur en Herbe" (AEFE)
 
-### Réalisations
+### Expériences Professionnelles 👨🏾‍💻
 
-Why do we use it?
-It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
+* **Stage Informatique : Maintenance & amélioration d'un site web**
 
-Where does it come from?
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+  OrigaMe | Août 2020 - Aujourd'hui (1 Mois et 2 semaines)
 
-[Téléchargez mon CV](https://filebin.net/9u1hv1gn7nrdiuqd/CV_de_YESSI_MUNGUENGUI.pdf?t=a62xhahp)
+  Missions principales : 
+
+  Maintien & amélioration de la plateforme de [OrigaMe](app.origame.fr)
+* **Projet pour l'École : Réalisation d'une application mobile**
+
+  TedxNantes | Novembre 2019 - Juin 2020 (7 Mois)
+
+  Missions principales : 
+
+  \- Design & Maquettes UX - Conception de l'application (Ionic/Angular/HTML/CSS/Javascript) - Projet Agile
+* **Stage Informatique : Réalisation d'un site web**
+
+  HM Best Sports Consulting | Mai 2019 - Juin 2019 (6 Semaines)
+
+  Missions principales : 
+
+  \- Design & Maquettes UX - Conception du site (HTML/CSS/Bootstrap/Javascript) - Référencement Naturel (SEO)
+* **Projet pour l'École : Réalisation d'un site web**
+
+  Easyloc | Novembre 2018 - Juin 2019 (8 Mois)
+
+  Missions principales : 
+
+  \- Design & Maquettes UX - Développement Front End - Projet Agile - Travail en équipe (avec 7 développeurs & 1 équipe marketing) 
+
+### Compétences 🧠
+
+* Base de données
+
+  SQL (MySQL, PostGreSQL), Merise, MongoDB
+* Développement Logiciel
+
+  Java, Javascript, PHP, Python, Ionic
+* Développement Web
+
+  HTML/CSS,Javascript,Typescript, PHP, Angular, NodeJs,VueJs, Laravel, Symphony, React
+* Langues
+
+  Français, Anglais (Niveau B2), Espagnol (Niveau A2)
+* Divers
+
+  Photoshop, MAO, Suite Office
+* Soft Skils
+
+  Esprit d'équipe, créativité, motivation, autodiscipline
