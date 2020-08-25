@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Bilan de stage (Fin d'année B1 Informatique)
-slug: /stage-b1
+slug: /blog/stage-b1
 date: 2019-08-23 23:40
 description: stage expérience développement web
 featuredImage: ""
