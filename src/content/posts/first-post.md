@@ -1,7 +1,7 @@
 ---
 template: blog-post
-title: "Mon séjour au sein de 1Kubator Nantes "
-slug: /blog/mon-sejour-au-sein-de-1k
+title: "Un séjour au sein de 1Kubator Nantes "
+slug: /blog/un-sejour-au-sein-de-1k
 date: 2019-07-10T00:00:00.000Z
 description: "1kubator nantes "
 featuredImage: /assets/1k.png
