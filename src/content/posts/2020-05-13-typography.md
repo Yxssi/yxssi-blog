@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Bilan de stage (Fin d'année B2 Informatique)
-slug: stage
+slug: /blog/stage
 date: 2020-08-20 01:10
 description: stage origame nantes ynov yessi developpement web 1kubator
 featuredImage: /assets/origame.png
