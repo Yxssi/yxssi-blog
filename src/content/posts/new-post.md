@@ -1,9 +1,9 @@
 ---
 template: blog-post
-title: Neon in Games
-slug: new-post
+title: Présentation et contexte des entreprises
+slug: /blog/presentation-et-contexte-des-entreprises
 date: 2020-05-09T05:53:16.102Z
-description: Neon
-featuredImage: /assets/sebastiaan-stam-5hbrem-5mnq-unsplash.jpg
+description: entreprises origame hm-best-sports-consulting
+featuredImage: ""
 ---
 aksnd sk djk ks djskjdsj jd sjk dkj jk
