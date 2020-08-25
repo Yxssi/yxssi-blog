@@ -1,9 +1,9 @@
 ---
 template: blog-post
-title: Sesame Momos & Gaming
-slug: sesame-momos
+title: Mes outils préférés pour être productif
+slug: /blog/outils-productivité
 date: 2020-05-13 12:47
-description: Sesame Momos
-featuredImage: /assets/charles-deluvio-d-vdqmtfaau-unsplash.jpg
+description: Productivité
+featuredImage: /assets/productivity.png
 ---
-Sesame Momos
+Texte à saisir
