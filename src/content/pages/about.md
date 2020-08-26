@@ -78,8 +78,6 @@ Membre du Conseil des délégués pour la vie lycéenne Participation à la fina
 
 En matière de loisirs, j'affectionne le sport avec notamment le football et le basketball que je pratique occasionnellement. Aussi, la musique occupe une grande place dans mon temps libre.
 
-
-
 ## Musique 🎹
 
 En effet, je compose des musiques à l'aide d'un logiciel MAO (Musique assistée par ordinateur). C'est ainsi que j'ai été amené plusieurs morceaux de jeunes artistes en France & au Gabon. 
@@ -88,4 +86,5 @@ Voici une petite liste de quelques morceaux :
 
 * [LVUA de Big Franck & HMF](https://soundcloud.com/dalo-records/3-big-franck-feat-lord-hmf)
 * **[Étoile de S.A.E](https://soundcloud.com/bwelitribe/sae-etoile)**
+* **[Nefasto de S.A.E ](https://soundcloud.com/jupiton/nefasto-prod-sheezy)**
 * **[Malaya (Instrumental)](https://soundcloud.com/jupiton/malaya?in=jupiton/sets/vibes-from-my-mind-ep)**
