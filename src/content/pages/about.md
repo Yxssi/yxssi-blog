@@ -5,6 +5,13 @@ title: Présentation
 attachments:
   - ./CVYessi.pdf
 ---
+Je suis Yessi, un jeune développeur full-stack vivant à Nantes.\
+Actuellement, je suis en 3e année Informatique\
+(Développement Logiciel) à Ynov Nantes\
+et stagiaire en Développement Web au sein de OrigaMe,\
+je souhaite ainsi me spécialiser dans la création de logiciels\
+mais aussi d'applications web ou mobile.
+
 ### Formation 📚
 
 **Ynov Nantes Campus** Bachelor Informatique | *Sept 2018 - Aujourd'hui*
@@ -67,8 +74,18 @@ Membre du Conseil des délégués pour la vie lycéenne Participation à la fina
 
   Esprit d'équipe, créativité, motivation, autodiscipline
 
-
-
 ### Loisirs  ⚽️
 
-En matière de loisirs, j'affectionne le sport avec notamment le football et le basketball que je pratique occasionnellement. Aussi, la musique occupe une grande place dans mon temps libre. En effet, je compose des musiques à l'aide d'un logiciel MAO (Musique assistée par ordinateur) .
+En matière de loisirs, j'affectionne le sport avec notamment le football et le basketball que je pratique occasionnellement. Aussi, la musique occupe une grande place dans mon temps libre.
+
+
+
+## Musique 🎹
+
+En effet, je compose des musiques à l'aide d'un logiciel MAO (Musique assistée par ordinateur). C'est ainsi que j'ai été amené plusieurs morceaux de jeunes artistes en France & au Gabon. 
+
+Voici une petite liste de quelques morceaux : 
+
+* [LVUA de Big Franck & HMF](https://soundcloud.com/dalo-records/3-big-franck-feat-lord-hmf)
+* **[Étoile de S.A.E](https://soundcloud.com/bwelitribe/sae-etoile)**
+* **[Malaya (Instrumental)](https://soundcloud.com/jupiton/malaya?in=jupiton/sets/vibes-from-my-mind-ep)**
