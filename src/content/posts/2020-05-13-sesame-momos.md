@@ -14,10 +14,10 @@ Ainsi, dans cet article je vais vous présenter les différents outils que j'uti
 
 ##### Outils
 
-* **To-do** - [Microsoft](https://todo.microsoft.com/tasks/)
-* **Trello** - [Atlansian](https://trello.com/)
-* **Notebook** - [Zoho](https://www.zoho.com/fr/notebook/)
-* **Spark** - [Readdle](https://sparkmailapp.com/)
+* **To-do** -** [Microsoft](https://todo.microsoft.com/tasks/)**
+* **Trello** - **[Atlansian](https://trello.com/)**
+* **Notebook** -** [Zoho](https://www.zoho.com/fr/notebook/)**
+* **Spark** - **[Readdle](https://sparkmailapp.com/)**
 * **Google Agenda - [Google](https://calendar.google.com/)**
 
 # To-do ([](https://todoist.com/)Microsoft)
@@ -30,7 +30,7 @@ Trello se base beaucoup sur la méthode KANBAN et vous permet d'organiser vos ph
 
 # Notebook ([](https://todoist.com/)Zoho)
 
-Pour la prise de notes, Notebook s'avère être un "*must-have*" pour moi. Il permet d'organiser ses notes dans différents Notebooks. L'une de ses forces et les nombreuses options qu'il propose au sein d'une note (enregistrement audio, ajout collaborateurs, rappel, versionnage, verrouillage etc ...). 
+Pour la prise de notes, Notebook s'avère être un "*must-have*" pour moi. Il permet d'organiser ses notes dans différents Notebooks. L'une de ses forces et les nombreuses options qu'il propose au sein d'une note (enregistrement audio, ajout collaborateurs, rappel, versionnage, verrouillage). 
 
 Enfin, Notebooks est une application à l'interface agréable disponible sur Mac, Windows, IOS & Android. C'est mon coup de coeur depuis un bon moment et je ne me vois pas changer de bloc-notes numérique de si tôt. 
 
