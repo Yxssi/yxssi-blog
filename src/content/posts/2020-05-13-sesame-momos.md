@@ -28,7 +28,7 @@ C'est un outil simple d'utilisation qui permet de lister ses tâches et de les o
 
 # Trello ([](https://todoist.com/)Atlantissan)
 
-![](/assets/trello.png)
+![Trello](/assets/trello.png "Trello")
 
 Trello se base beaucoup sur la méthode KANBAN et vous permet d'organiser vos phases en plusieurs itérations.  De nombreuses possibilités s'offrent à vous afin de rendre vos "cartes" efficaces. Vous pouvez notamment y créer des micro-tâches à l'aide d'une checklist, assignez des taches à plusieurs personnes, renseigner une date limite ou une étiquette. C'est un outil très apprécié au sein des équipes de développeurs que j'ai fréquenté, et je le recommande vivement pour les projets demandant un nombre conséquent de phases et de tâches. 
 
