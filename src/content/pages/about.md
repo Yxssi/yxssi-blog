@@ -26,12 +26,12 @@ Membre du Conseil des délégués pour la vie lycéenne Participation à la fina
 
 * **Stage Informatique : Maintenance & amélioration d'un site web**
 
-  OrigaMe | Août 2020 - Aujourd'hui (1 Mois et 2 semaines)
+  OrigaMe | Août 2020 - Aujourd'hui 
 
   Missions principales : 
 
   Maintien & amélioration de la plateforme de [OrigaMe](https://origame.fr/)
-* **Projet pour l'École : Réalisation d'une application mobile**
+* **Projet scolaire : Réalisation d'une application mobile**
 
   TedxNantes | Novembre 2019 - Juin 2020 (7 Mois)
 
@@ -45,7 +45,7 @@ Membre du Conseil des délégués pour la vie lycéenne Participation à la fina
   Missions principales : 
 
   \- Design & Maquettes UX - Conception du site (HTML/CSS/Bootstrap/Javascript) - Référencement Naturel (SEO)
-* **Projet pour l'École : Réalisation d'un site web**
+* **Projet scolaire : Réalisation d'un site web**
 
   Easyloc | Novembre 2018 - Juin 2019 (8 Mois)
 
@@ -77,14 +77,3 @@ Membre du Conseil des délégués pour la vie lycéenne Participation à la fina
 ### Loisirs  ⚽️
 
 En matière de loisirs, j'affectionne le sport avec notamment le football et le basketball que je pratique occasionnellement. Aussi, la musique occupe une grande place dans mon temps libre.
-
-## Musique 🎹
-
-En effet, je compose des musiques à l'aide d'un logiciel MAO (Musique assistée par ordinateur). C'est ainsi que j'ai été amené plusieurs morceaux de jeunes artistes en France & au Gabon. 
-
-Voici une petite liste de quelques morceaux : 
-
-* [LVUA de Big Franck & HMF](https://soundcloud.com/dalo-records/3-big-franck-feat-lord-hmf)
-* **[Étoile de S.A.E](https://soundcloud.com/bwelitribe/sae-etoile)**
-* **[Nefasto de S.A.E ](https://soundcloud.com/jupiton/nefasto-prod-sheezy)**
-* **[Malaya (Instrumental)](https://soundcloud.com/jupiton/malaya?in=jupiton/sets/vibes-from-my-mind-ep)**
