@@ -4,8 +4,10 @@ title: Ma perception du télétravail...
 slug: /blog/mon-point-de-vue-sur-le-teletravail
 date: 2020-05-11 08:40
 description: teletravail covid entreprise
-featuredImage: /assets/teletravail.png
+featuredImage: ""
 ---
+![teletravail](/assets/teletravail.png "Télétravail")
+
 \
 Dans cette article je vais évoquer avec vous mon expérience du télétravail et vous donner mon point de vue sur ce dernier. On va également se demander si à grande échelle le télétravail ne menace pas les filières informatiques. 
 
