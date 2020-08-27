@@ -6,301 +6,35 @@ date: 2020-05-09T05:53:16.102Z
 description: résilience difficultés travail
 featuredImage: ""
 ---
-## Overview
-
-### Philosophy
-
 ![Stress](/assets/hard.jpeg "...")
 
-## Block Elements
+Que ce soit un bug persistant, un problème technique ou encore une difficulté nécessitant une réflexion plus poussée les difficultés sont nombreuses dans la réalisation d'un projet.
 
-### Paragraphs and Line Breaks
+En tant que jeune développeur, je rencontre souvent des difficultés qui me ralentissent et me frustrent mais avec du recul ces dernières ne sont peut être pas si négatives que ça e c'est ce que je vais m'efforcer de vous expliquer ci-dessous.
 
-A paragraph is simply one or more consecutive lines of text, separated
-by one or more blank lines. (A blank line is any line that looks like a
-blank line -- a line containing nothing but spaces or tabs is considered
-blank.) Normal paragraphs should not be indented with spaces or tabs.
-
-The implication of the "one or more consecutive lines of text" rule is
-that Markdown supports "hard-wrapped" text paragraphs. This differs
-significantly from most other text-to-HTML formatters (including Movable
-Type's "Convert Line Breaks" option) which translate every line break
-character in a paragraph into a `<br />` tag.
-
-When you *do* want to insert a `<br />` break tag using Markdown, you
-end a line with two or more spaces, then type return.
-
-### Headers
-
-Markdown supports two styles of headers, \[Setext] and \[atx].
-
-Optionally, you may "close" atx-style headers. This is purely
-cosmetic -- you can use this if you think it looks better. The
-closing hashes don't even need to match the number of hashes
-used to open the header. (The number of opening hashes
-determines the header level.)
-
-### Blockquotes
-
-Markdown uses email-style `>` characters for blockquoting. If you're
-familiar with quoting passages of text in an email message, then you
-know how to create a blockquote in Markdown. It looks best if you hard
-wrap the text and put a `>` before every line:
-
-> This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
-> consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.
-> Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
+> Dans la vie, il n’y a pas de problèmes et d’obstacles ; il n’y a que des défis et des épreuves.
 >
-> Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse
-> id sem consectetuer libero luctus adipiscing.
+> *Michel Bouthot*
 
-Markdown allows you to be lazy and only put the `>` before the first
-line of a hard-wrapped paragraph:
+Pourquoi je dis que les difficultés peuvent être bénéfique avec du recul ? 
 
-> This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
-> consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.
-> Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
->
-> Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse
-> id sem consectetuer libero luctus adipiscing.
+* La productivité prime mais l'apprentissage notamment d'une technologie est permanent. Résoudre des problèmes permet d'apprendre fréquemment. 
+  Je pense qu'on ne cesse jamais d'apprendre, en adoptant cette philosophie au quotidien on évite les frustrations. 
+* La satisfaction que l'on peut éprouver après avoir passé un obstacle est très agréable à ressentir. Il faut cultiver l'amour de cette satisfaction et persister 
+* Celà peut aussi vous faire sortir de votre zone de confort et vous permettre de trouver des solutions que vous n'envisagiez pas auparavant. Par exemple, demander de l'aide sur des forums, à des meetups, ou encore faire une formation en ligne. 
 
-Blockquotes can be nested (i.e. a blockquote-in-a-blockquote) by
-adding additional levels of `>`:
+Ainsi, pour surmonter les différentes difficultés d'un projet vous devrez vous doter d'un esprit d'apprenant et savoir trouver le positif dans cette difficulté. À titre personnel, je n'aimais pas trop resté "bloqué" sur une solution et être forcé de demander de l'aide. Je voulais trouver par moi meme à tout prix ! Mais que ce soit lors de mes stages, lors de mes cours ou encore dans la vie quotidienne j'ai fini par comprendre qu'il fallait savoir ne pas resté bloqué et demander de l'aide aux bonnes personnes. 
 
-> This is the first level of quoting.
->
-> > This is nested blockquote.
->
-> Back to the first level.
+Faites une rétrospective et demandez-vous ce que vous devez changer si jamais vous pensez devoir changer d'état d'esprit. 
 
-Blockquotes can contain other Markdown elements, including headers, lists,
-and code blocks:
+Pour finir, voici quelques sites / forums qui vont pouvoir vous aider pour la résolution de vos beugs : 
 
-> ## This is a header.
->
-> 1. This is the first list item.
-> 2. This is the second list item.
->
-> Here's some example code:
->
-> ```
-> return shell_exec("echo $input | $markdown_script");
-> ```
+* [Stackoverflow](https://stackoverflow.com/)
+* [Openclassroom](https://blog.openclassrooms.com/)
+* [Dev Ed (Youtube)](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q)
+* [Linkedin Learning ](https://www.linkedin.com/learning/)
+* [Développeur Libre (Discord)](https://discord.gg/N7vweP)
 
-Any decent text editor should make email-style quoting easy. For
-example, with BBEdit, you can make a selection and choose Increase
-Quote Level from the Text menu.
+Voici les ressources que j'utilise le plus souvent, je vous invite à rechercher sur ces dernières des sujets relatifs à vos technologies. 
 
-### Lists
-
-Markdown supports ordered (numbered) and unordered (bulleted) lists.
-
-Unordered lists use asterisks, pluses, and hyphens -- interchangably
--- as list markers:
-
-* Red
-* Green
-* Blue
-
-is equivalent to:
-
-* Red
-* Green
-* Blue
-
-and:
-
-* Red
-* Green
-* Blue
-
-Ordered lists use numbers followed by periods:
-
-1. Bird
-2. McHale
-3. Parish
-
-It's important to note that the actual numbers you use to mark the
-list have no effect on the HTML output Markdown produces. The HTML
-Markdown produces from the above list is:
-
-If you instead wrote the list in Markdown like this:
-
-1. Bird
-2. McHale
-3. Parish
-
-or even:
-
-3. Bird
-4. McHale
-5. Parish
-
-you'd get the exact same HTML output. The point is, if you want to,
-you can use ordinal numbers in your ordered Markdown lists, so that
-the numbers in your source match the numbers in your published HTML.
-But if you want to be lazy, you don't have to.
-
-To make lists look nice, you can wrap items with hanging indents:
-
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-  Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi,
-  viverra nec, fringilla in, laoreet vitae, risus.
-* Donec sit amet nisl. Aliquam semper ipsum sit amet velit.
-  Suspendisse id sem consectetuer libero luctus adipiscing.
-
-But if you want to be lazy, you don't have to:
-
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-  Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi,
-  viverra nec, fringilla in, laoreet vitae, risus.
-* Donec sit amet nisl. Aliquam semper ipsum sit amet velit.
-  Suspendisse id sem consectetuer libero luctus adipiscing.
-
-List items may consist of multiple paragraphs. Each subsequent
-paragraph in a list item must be indented by either 4 spaces
-or one tab:
-
-1. This is a list item with two paragraphs. Lorem ipsum dolor
-   sit amet, consectetuer adipiscing elit. Aliquam hendrerit
-   mi posuere lectus.
-
-   Vestibulum enim wisi, viverra nec, fringilla in, laoreet
-   vitae, risus. Donec sit amet nisl. Aliquam semper ipsum
-   sit amet velit.
-2. Suspendisse id sem consectetuer libero luctus adipiscing.
-
-It looks nice if you indent every line of the subsequent
-paragraphs, but here again, Markdown will allow you to be
-lazy:
-
-* This is a list item with two paragraphs.
-
-  ```
-  This is the second paragraph in the list item. You're
-  ```
-
-  only required to indent the first line. Lorem ipsum dolor
-  sit amet, consectetuer adipiscing elit.
-* Another item in the same list.
-
-To put a blockquote within a list item, the blockquote's `>`
-delimiters need to be indented:
-
-* A list item with a blockquote:
-
-  > This is a blockquote
-  > inside a list item.
-
-To put a code block within a list item, the code block needs
-to be indented *twice* -- 8 spaces or two tabs:
-
-* A list item with a code block:
-
-  ```
-  <code goes here>
-  ```
-
-### Code Blocks
-
-Pre-formatted code blocks are used for writing about programming or
-markup source code. Rather than forming normal paragraphs, the lines
-of a code block are interpreted literally. Markdown wraps a code block
-in both `<pre>` and `<code>` tags.
-
-To produce a code block in Markdown, simply indent every line of the
-block by at least 4 spaces or 1 tab.
-
-```javascript
-import React from "react"
-import { Link, useStaticQuery, graphql } from "gatsby"
-import Navigation from "../components/navigation"
-
-export default ({ children }) => {
-  const data = useStaticQuery(
-    graphql`
-      query {
-        site {
-          siteMetadata {
-            title
-          }
-        }
-      }
-    `
-  )
-  return (
-    <div className="site-wrapper">
-      <header className="site-header">
-        <div className="site-title">
-          <Link to="/">/Link>
-        </div>
-        <Navigation />
-      </header>
-      {children}
-    </div>
-  )
-}
-```
-
-This is a normal paragraph:
-
-`This is a code block.`
-
-Here is an example of AppleScript:
-
-```
-tell application "Foo"
-    beep
-end tell
-```
-
-A code block continues until it reaches a line that is not indented
-(or the end of the article).
-
-Within a code block, ampersands (`&`) and angle brackets (`<` and `>`)
-are automatically converted into HTML entities. This makes it very
-easy to include example HTML source code using Markdown -- just paste
-it and indent it, and Markdown will handle the hassle of encoding the
-ampersands and angle brackets. For example, this:
-
-
-
-
-
-Regular Markdown syntax is not processed within code blocks. E.g.,
-asterisks are just literal asterisks within a code block. This means
-it's also easy to use Markdown to write about Markdown's own syntax.
-
-
-
-## Span Elements
-
-### Links
-
-Markdown supports two style of links: *inline* and *reference*.
-
-In both styles, the link text is delimited by \[square brackets].
-
-To create an inline link, use a set of regular parentheses immediately
-after the link text's closing square bracket. Inside the parentheses,
-put the URL where you want the link to point, along with an *optional*
-title for the link, surrounded in quotes. For example:
-
-This is [an example](http://example.com/) inline link.
-
-[This link](http://example.net/) has no title attribute.
-
-### Emphasis
-
-Markdown treats asterisks (`*`) and underscores (`_`) as indicators of
-emphasis. Text wrapped with one `*` or `_` will be wrapped with an
-HTML `<em>` tag; double `*`'s or `_`'s will be wrapped with an HTML
-`<strong>` tag. E.g., this input:
-
-*single asterisks*
-
-*single underscores*
-
-**double asterisks**
-
-**double underscores**
+Merci à vous d'avoir lu cette article !
