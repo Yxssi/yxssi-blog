@@ -22,6 +22,8 @@ Ainsi, dans cet article je vais vous présenter les différents outils que j'uti
 
 # To-do ([](https://todoist.com/)Microsoft)
 
+![microsoft](/assets/todo.png "To-do")
+
 C'est un outil simple d'utilisation qui permet de lister ses tâches et de les organiser dans des dossiers. Il vous affiche également les taches du jour afin d'avoir rapidement une vue du travail a effectué dans l'immédiat. Sa simplicité représente pour moi un véritable atout et me permet de gagner en temps au moment de démarrer mes journées.
 
 # Trello ([](https://todoist.com/)Atlantissan)
@@ -29,6 +31,8 @@ C'est un outil simple d'utilisation qui permet de lister ses tâches et de les o
 Trello se base beaucoup sur la méthode KANBAN et vous permet d'organiser vos phases en plusieurs itérations.  De nombreuses possibilités s'offrent à vous afin de rendre vos "cartes" efficaces. Vous pouvez notamment y créer des micro-tâches à l'aide d'une checklist, assignez des taches à plusieurs personnes, renseigner une date limite ou une étiquette. C'est un outil très apprécié au sein des équipes de développeurs que j'ai fréquenté, et je le recommande vivement pour les projets demandant un nombre conséquent de phases et de tâches. 
 
 # Notebook ([](https://todoist.com/)Zoho)
+
+![](/assets/notebook.png)
 
 Pour la prise de notes, Notebook s'avère être un "*must-have*" pour moi. Il permet d'organiser ses notes dans différents Notebooks. L'une de ses forces et les nombreuses options qu'il propose au sein d'une note (enregistrement audio, ajout collaborateurs, rappel, versionnage, verrouillage). 
 
