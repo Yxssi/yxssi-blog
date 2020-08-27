@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Faire face aux difficultés lors de la réalisation d'un projet web
-slug: "/blog/faire-face-aux-difficultes-lors-de-la-realisation-d-un-projet-web "
+slug: /blog/faire-face-aux-difficultes-lors-de-la-realisation-d-un-projet-web
 date: 2020-05-09T05:53:16.102Z
 description: résilience difficultés travail
 featuredImage: ""
