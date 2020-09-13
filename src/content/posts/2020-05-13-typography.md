@@ -10,7 +10,7 @@ featuredImage: ""
 
 - - -
 
-Dans cet article je vais effectué un bilan de mon stage au sein d'OrigaMe
+Dans cet article je vais effectuer un bilan de mon stage au sein d'OrigaMe
 
 OrigaMe est une start-up créée le 24 Février 2020 après plusieurs mois d'incubation au sein de l'incubateur de start-up "1Kubator Nantes". OrigaMe a pour but de simplifier le quotidien de ses utilisateurs en leur permettant de gérer tous leurs contrats sur la même plateforme. 
 
