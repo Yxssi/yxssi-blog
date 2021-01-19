@@ -8,10 +8,13 @@ Retrouvez-ci dessous l'ensemble de mes contacts.
 <br/>
 [yessimunguengui@icloud.com]('yessimunguengui@icloud.com')
 <br/>
-[Github](https://github.com/yxssi)
+<a href="https://github.com/yxssi" target="_blank">GitHub</a>
 <br/>
-[Twitter](https://twitter.com/yessimunguengui)
+<a href="https://gitlab.com/yxssi" target="_blank">GitLab</a>
 <br/>
+<a href="https://www.linkedin.com/in/yessimunguengui/" target="_blank">LinkedIn</a>
+<br/>
+<a href="https://twitter.com/yessimunguengui" target="_blank">Twitter</a>
 
 ---
 

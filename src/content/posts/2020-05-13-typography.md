@@ -10,11 +10,11 @@ featuredImage: ""
 
 - - -
 
-Dans cet article je vais effectuer un bilan de mon stage au sein d'OrigaMe
+Dans cet article je vais effectuer un bilan de mon stage au sein d'Origame
 
-OrigaMe est une start-up créée le 24 Février 2020 après plusieurs mois d'incubation au sein de l'incubateur de start-up "1Kubator Nantes". OrigaMe a pour but de simplifier le quotidien de ses utilisateurs en leur permettant de gérer tous leurs contrats sur la même plateforme. 
+Origame est une start-up créée le 24 Février 2020 après plusieurs mois d'incubation au sein de l'incubateur de start-up "1Kubator Nantes". Origame a pour but de simplifier le quotidien de ses utilisateurs en leur permettant de gérer tous leurs contrats sur la même plateforme. 
 
-Ainsi, j'ai intégré OrigaMe le 3 Août 2020 en tant que stagiaire en développement web. Mes premiers jours dans les locaux de 1Kubator se sont bien passés, j'ai reçu un très bon accueil et j'ai été directement mis en confiance. Avec l'aide de mon maitre de stage et de mon binôme (en fin de stage) j'ai pu prendre en main l'environnement technique de OrigaMe et commencer mes missions. 
+Ainsi, j'ai intégré Origame le 3 Août 2020 en tant que stagiaire en développement web. Mes premiers jours dans les locaux de 1Kubator se sont bien passés, j'ai reçu un très bon accueil et j'ai été directement mis en confiance. Avec l'aide de mon maitre de stage et de mon binôme (en fin de stage) j'ai pu prendre en main l'environnement technique de Origame et commencer mes missions. 
 
 En matière d'organisation, nous avons décidé de mettre en place des réunions fréquentes afin que chacun exprime son ressenti sur l'avancement du projet, les difficultés rencontrées ou encore les solutions proposées par tout un chacun. Ces réunions ont été très importantes pour moi, non seulement pour avancer dans mes missions mais aussi pour m'assurer que j'allais bien dans la bonne direction. 
 
@@ -28,6 +28,6 @@ Pour finir, je suis très heureux que mon premier stage au sein d'une entreprise
 
 Je veux continuer à me professionnaliser, cette fois-ci à l'aide d'une alternance et également développer mon réseau professionnel sur Nantes.
 
-Je suis ravis d'avoir pu effectué ce stage et je remercie OrigaMe pour l'opportunité qui m'a été donnée. 
+Je suis ravis d'avoir pu effectué ce stage et je remercie Origame pour l'opportunité qui m'a été donnée. 
 
 Merci à vous d'avoir lu cet article !

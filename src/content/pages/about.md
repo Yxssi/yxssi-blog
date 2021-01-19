@@ -24,13 +24,15 @@ Membre du Conseil des délégués pour la vie lycéenne Participation à la fina
 
 ### Expériences Professionnelles 👨🏾‍💻
 
-* **Stage Informatique : Maintenance & amélioration d'un site web**
 
-  OrigaMe | Août 2020 - Aujourd'hui 
+* **Stage (1 mois & 2 semaines) | Alternance Informatique : <br> Maintenance & amélioration d'un site web**
+
+  Origame | Août 2020 - Aujourd'hui
 
   Missions principales : 
 
-  Maintien & amélioration de la plateforme de [OrigaMe](https://origame.fr/)
+  Maintien & amélioration de la plateforme de <a href="https://origame.fr/" target="_blank">Origame</a>
+
 * **Projet scolaire : Réalisation d'une application mobile**
 
   TedxNantes | Novembre 2019 - Juin 2020 (7 Mois)

@@ -9,14 +9,14 @@ cta:
   ctaLink: /about
 ---
 
-Je suis un développeur full-stack vivant à Nantes.
+👨🏾‍💻 : Développeur Web en Alternance <a href="https://origame.fr/" target="_blank">@Origame</a>
 <br>
-Actuellement, je suis en 3e année Informatique
+
+📚 : Ynov Nantes Bachelor 3 Informatique 
 <br>
-spécialitée Développement Logiciel à Ynov Nantes
+
+🎓 : Spécialité Développement Web
 <br>
-et stagiaire en Développement Web au sein de OrigaMe,
+
+📍 :  Nantes
 <br>
-je souhaite ainsi me spécialiser dans la création de logiciels
-<br>
-mais aussi d'applications web ou mobile.

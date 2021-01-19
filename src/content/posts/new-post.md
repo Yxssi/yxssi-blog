@@ -8,11 +8,12 @@ featuredImage: ""
 ---
 ![entreprises](/assets/entreprise.jpg "Présentation des entreprises")
 
-**OrigaMe** 
+**Origame** 
 
-OrigaMe est une jeune startup nantaise qui a pour but de permettre la gestion des contrats sur une seule et meme plateforme. C'est en Février 2020 que la plateforme a été lancée. OrigaMe a été incubé pendant plusieurs mois au sein de l'1Kubator de Nantes. L'entreprise est fondée par Hugo Salard et co-fondé par Corentin Bezin. Aujourd'hui elle compte 4 employés et un stagiaire. Aussi, OrigaMe ne cesse de grandir et compte changer de locaux dans les jours à venir. 
+Origame est une jeune startup nantaise qui a pour but de permettre la gestion des contrats sur une seule et meme plateforme. C'est en Février 2020 que la plateforme a été lancée. Origame a été incubé pendant plusieurs mois au sein de l'1Kubator de Nantes. L'entreprise est fondée par Hugo Salard et co-fondé par Corentin Bezin. Aujourd'hui elle compte 4 employés et un stagiaire. Aussi, Origame ne cesse de grandir et compte changer de locaux dans les jours à venir. 
 
-Pour plus d'informations pouvez contacter OrigaMe à l'adresse e-mail suivante : contact@origame.fr ou vous rendre sur le site [www.origame.fr/](https://origame.fr/)\
+Pour plus d'informations pouvez contacter Origame à l'adresse e-mail suivante : contact@origame.fr ou vous rendre sur le site <a href="https://origame.fr/" target="_blank">www.origame.fr</a>
+
 ​
 
 ​

@@ -21,7 +21,8 @@ Cette expérience m'a permis d'expérimenter le télétravail et de m'adapter à
 
 
 
-À la suite de mon année scolaire, j'ai entamé un stage au sein d'[OrigaMe](https://app.origame.fr/). À la signature de ma convention de stage, il a été convenu que je pourrais effectué un jour par semaine (le Vendredi) en télétravail. Aussi, l'entreprise devant changer de locaux nous sommes amenés à travailler à distance de temps en temps. C'est une situation qui me convient et à laquelle j'ai su parfaitement m'adapté notamment grâce à mes cours à distance effectués pendant le confinement.
+À la suite de mon année scolaire, j'ai entamé un stage au sein <a href="https://origame.fr/" target="_blank">d'Origame</a>
+. À la signature de ma convention de stage, il a été convenu que je pourrais effectué un jour par semaine (le Vendredi) en télétravail. Aussi, l'entreprise devant changer de locaux nous sommes amenés à travailler à distance de temps en temps. C'est une situation qui me convient et à laquelle j'ai su parfaitement m'adapté notamment grâce à mes cours à distance effectués pendant le confinement.
 
 
 
