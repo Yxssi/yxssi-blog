@@ -47,17 +47,6 @@ const HomePage = ({ data }) => {
             </span>
           </Link>
         </div>
-        <div>
-          {Image ? (
-            <Img
-              fluid={Image}
-              alt={frontmatter.title + " - Featured image"}
-              className="featured-image"
-            />
-          ) : (
-            ""
-          )}
-        </div>
       </div>
       <BlogListHome />
     </Layout>
