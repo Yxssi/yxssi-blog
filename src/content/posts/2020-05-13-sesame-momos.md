@@ -36,7 +36,7 @@ Trello se base beaucoup sur la méthode KANBAN et vous permet d'organiser vos ph
 
 ![Notebook](/assets/notebook.png "Notebook")
 
-Pour la prise de notes, Notebook s'avère être un "*must-have*" pour moi. Il permet d'organiser ses notes dans différents Notebooks. L'une de ses forces et les nombreuses options qu'il propose au sein d'une note (enregistrement audio, ajout collaborateurs, rappel, versionnage, verrouillage). 
+Pour la prise de notes, Notebook s'avère être un "*must-have*" pour moi. Il permet d'organiser ses notes dans différents Notebooks. L'une de ses forces est la mutlitude d'options qu'il propose au sein d'une note (enregistrement audio, ajout collaborateurs, rappel, versionnage, verrouillage). 
 
 Enfin, Notebooks est une application à l'interface agréable disponible sur Mac, Windows, IOS & Android. C'est mon coup de coeur depuis un bon moment et je ne me vois pas changer de bloc-notes numérique de si tôt. 
 
